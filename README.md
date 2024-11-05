@@ -1,6 +1,6 @@
 # Python-Big-Data-Analytics-Project
 ## Project Description——User Purchase Behavior Prediction
-&nbsp;&nbsp;This project is based on the user access data provided by the existing server (e.g., what pages users have previously viewed, how long they have viewed them, some attributes of the page, whether it is a holiday, etc.), 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is based on the user access data provided by the existing server (e.g., what pages users have previously viewed, how long they have viewed them, some attributes of the page, whether it is a holiday, etc.), 
 to conduct big data analysis and predict whether certain visits will result in purchasing behaviors
 ## Introduction to the data
 The data attributes include: 10 numerical attributes and 8 category attributes, and the meanings indicated by the variables in each column are as follows:
