@@ -1,5 +1,5 @@
 # Python-Big-Data-Analytics-Project
-## Project Description
+## Project Description——User Purchase Behavior Prediction
 This project is based on the user access data provided by the existing server (e.g., what pages users have previously viewed, how long they have viewed them, some attributes of the page, whether it is a holiday, etc.), 
 to conduct big data analysis and predict whether certain visits will result in purchasing behaviors
 ## Introduction to the data
